@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>components/GridDelegate.qml</file>
+        <file>components/ArticleGridView.qml</file>
+        <file>components/ArticleContent.qml</file>
+        <file>components/ArticleListView.qml</file>
+        <file>components/ListDelegate.qml</file>
+        <file>components/PictureModel.qml</file>
+        <file>components/images/arrow.png</file>
+        <file>components/images/rss.png</file>
+        <file>components/images/image1.jpg</file>
+        <file>components/images/image2.jpg</file>
+        <file>components/images/image3.jpg</file>
+        <file>components/images/image4.jpg</file>
+        <file>components/images/image5.jpg</file>
+        <file>components/images/image6.jpg</file>
+        <file>components/images/image7.jpg</file>
+        <file>components/images/image8.jpg</file>
+        <file>components/images/image9.jpg</file>
+        <file>components/images/image10.jpg</file>
+        <file>components/images/image11.jpg</file>
+        <file>components/images/image12.jpg</file>
+        <file>components/images/image13.jpg</file>
+        <file>components/images/image14.jpg</file>
+        <file>components/images/image15.jpg</file>
+        <file>components/images/image16.jpg</file>
+    </qresource>
+</RCC>
